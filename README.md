@@ -23,3 +23,18 @@ Simple Checkout view - Streamline payment and booking confirmation
 
 Importance of user-friendly design in a booking system
 A well-designed booking system reduces friction in the user journey,increases conversion rates and ncreases customer satisfaction. Clear navigation ,intuitive interfaces and responsive design are critical for success.
+
+Figma Design Specification
+Color styles:
+
+- Primary:#FF5A5F
+- Secondary:#008489
+- Background:#FFFFFF
+- Text:#222222
+- Secondary Text:#717171
+
+Typography
+
+- Primary Font: Circular, Medium (500), 16px
+- Headings: Circular . Bold (700), 24px-32px
+- Secondary Text: Crcular, Book (400), 14px
